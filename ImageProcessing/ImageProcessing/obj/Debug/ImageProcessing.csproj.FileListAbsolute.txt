@@ -1,0 +1,9 @@
+D:\GITHUB\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+D:\GITHUB\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+D:\GITHUB\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+D:\GITHUB\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+D:\GITHUB\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+D:\GITHUB\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\GITHUB\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+D:\GITHUB\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+D:\GITHUB\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
